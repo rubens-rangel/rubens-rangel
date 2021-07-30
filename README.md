@@ -2,7 +2,7 @@
 
 Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formado em Engenharia Civil.
 
-Me interesso muito por lógica e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Back-End.
+Me interesso muito por lógica de programação e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Back-End.
 
 No momento estou estudando: Java, Banco de Dados(SQL Server).
 
