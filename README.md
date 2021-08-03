@@ -10,7 +10,7 @@ Obrigado pela visita, veja meu LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenscnrangel/)](https://www.linkedin.com/in/rubenscnrangel/)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
