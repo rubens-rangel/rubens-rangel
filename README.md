@@ -4,7 +4,10 @@ Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desen
 
 Me interesso muito por lógica de programação e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Back-End.
 
-No momento estou estudando: Java, Banco de Dados(SQL Server e MySQL).
+No momento estou estudando: Html, Css, Javascript
+
+Conhecimento em:
+Java, Banco de Dados(PostgreSQL e MySQL).
 
 Obrigado pela visita, veja meu LinkedIn:
 
