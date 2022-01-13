@@ -10,7 +10,7 @@ Conhecimmento básico em:
 Html,CSS,Javasctipt
 
 Conhecimento Intermediario em:
-Java, Banco de Dados(PostgreSQL e MySQL).
+Java, SpringBoot, Banco de Dados(PostgreSQL e MySQL).
 
 
 Obrigado pela visita, veja meu LinkedIn:
