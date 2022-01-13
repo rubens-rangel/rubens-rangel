@@ -6,8 +6,8 @@ Me interesso muito por lógica de programação e estou estudando para ser um de
 
 No momento estou estudando: ReactJS
 
-Conhecimmento básico em:
-Html,CSS,Javasctipt
+Conhecimento básico em:
+Html, CSS, Javasctipt
 
 Conhecimento Intermediario em:
 Java, SpringBoot, Banco de Dados(PostgreSQL e MySQL).
