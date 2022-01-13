@@ -4,10 +4,14 @@ Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desen
 
 Me interesso muito por lógica de programação e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Backend.
 
-No momento estou estudando: Html, Css, Javascript
+No momento estou estudando: ReactJS
 
-Conhecimento em:
+Conhecimmento básico em:
+Html,CSS,Javasctipt
+
+Conhecimento Intermediario em:
 Java, Banco de Dados(PostgreSQL e MySQL).
+
 
 Obrigado pela visita, veja meu LinkedIn:
 
