@@ -7,7 +7,7 @@ Me interesso muito por lógica de programação e estou estudando para ser um de
 No momento estou estudando: SpringBoot - Microservices(cloud)
 
 Conhecimento básico em:
-Html, CSS, Javasctipt,ReactJS
+Html, CSS, Javasctipt,ReactJS, docker, aws
 
 Conhecimento Intermediario em:
 Java, SpringBoot, Banco de Dados(PostgreSQL,MongoDB e MySQL).
