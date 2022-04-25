@@ -4,7 +4,7 @@ Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desen
 
 Me interesso muito por lógica de programação e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Backend.
 
-No momento estou estudando: SpringBoot - Microservices(cloud)
+No momento estou estudando: AWS CLOUD SERVICES
 
 Conhecimento básico em:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ,ReactJS, docker, aws
