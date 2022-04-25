@@ -7,10 +7,10 @@ Me interesso muito por lógica de programação e estou estudando para ser um de
 No momento estou estudando: SpringBoot - Microservices(cloud)
 
 Conhecimento básico em:
-Html, CSS, Javasctipt,ReactJS, docker, aws
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ,ReactJS, docker, aws
 
 Conhecimento Intermediario em:
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) , Banco de Dados(PostgreSQL,MongoDB e MySQL).
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) , ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1) ![ReactJs] https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
 
 
 Obrigado pela visita, veja meu LinkedIn:
