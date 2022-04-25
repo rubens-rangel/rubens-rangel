@@ -10,7 +10,7 @@ Conhecimento básico em:
 Html, CSS, Javasctipt,ReactJS, docker, aws
 
 Conhecimento Intermediario em:
-Java, SpringBoot, Banco de Dados(PostgreSQL,MongoDB e MySQL).
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) , Banco de Dados(PostgreSQL,MongoDB e MySQL).
 
 
 Obrigado pela visita, veja meu LinkedIn:
