@@ -1,4 +1,4 @@
-### 👋 Olá 👋
+### 👋 Olá 👋 🔭
 
 Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formado em Engenharia Civil.
 
