@@ -7,7 +7,7 @@ Me interesso muito por lógica de programação e estou estudando para ser um de
 No momento estou estudando: AWS CLOUD SERVICES
 
 Conhecimento básico em:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) , <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) , ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) 
 , docker, aws
 
 Conhecimento Intermediario em:
@@ -18,9 +18,7 @@ Obrigado pela visita, veja meu LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenscnrangel/)](https://www.linkedin.com/in/rubenscnrangel/)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
