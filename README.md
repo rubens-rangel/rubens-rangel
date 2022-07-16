@@ -22,6 +22,7 @@ Obrigado pela visita, veja meu LinkedIn:
 
 Live Projects:
 [✨starsmovies✨](https://rubens-starsmovies.netlify.app/)
+[:convenience_store:dsmeta:convenience_store:](https://rubens-dsmeta.netlify.app/)
 
 <!--
 **rubens-rangel/rubens-rangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
