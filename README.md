@@ -20,7 +20,7 @@ Obrigado pela visita, veja meu LinkedIn:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
 
 
-Live Projects:
+**Live Projects:**
 [✨starsmovies✨](https://rubens-starsmovies.netlify.app/)
 [:convenience_store:dsmeta:convenience_store:](https://rubens-dsmeta.netlify.app/)
 
