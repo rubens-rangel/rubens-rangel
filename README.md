@@ -2,15 +2,26 @@
 
 Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formado em Engenharia Civil.
 
-Me interesso muito por lógica de programação e estou estudando para ser um desenvolvedor Fullstack, mas com um foco principal no Backend.
+Sempre me interessei pela lógica de programação, Hoje trabalho como desenvolvedor Fullstack com Java e React, mas com um foco principal no Backend.
 
-No momento estou estudando: MongoDB
+No momento estou estudando: Framework IONIC, Tokens e Autenticação de Usuarios.
 
 Conhecimento Básico em:
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER&logoColor=#E34F26) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER&logoColor=#E34F26)  ![IONIC](https://img.shields.io/badge/-IONIC-333333?style=flat&logo=IONIC&logoColor=#E34F26) 
 
-Conhecimento Intermediario/Avançado em:
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS&logoColor=#E34F26) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=#E34F26)
+Conhecimento Intermediario em: ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform&logoColor=#E34F26) ![CICD](https://img.shields.io/badge/-CICD-333333?style=flat&logo=CI-CD&logoColor=#E34F26) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB&logoColor=#E34F26)
+
+
+Conhecimento Avançado em:
+![JAVA](https://img.shields.io/badge/-java-333333?style=flat&logo=java8&logoColor=007396) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=#F05032) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=#4479A1) ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL&logoColor=#4479A1) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) 
+
+
+
+Certificações:
+
+![Badge](https://curso-spring-ionic-rbs.s3.sa-east-1.amazonaws.com/aws-certified-cloud-practitioner.png)
+
+AWS Cloud practioner - 12/2025
 
 
 Obrigado pela visita, veja meu LinkedIn:
