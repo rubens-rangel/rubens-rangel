@@ -1,10 +1,10 @@
 ### 👋 Olá 👋 🔭
 
-Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Estudo Análise e Desenvolvimento de Sistemas e também sou formado em Engenharia Civil.
+Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Formado em Análise e Desenvolvimento de Sistemas e em Engenharia Civil.
 
 Sempre me interessei pela lógica de programação, Hoje trabalho como desenvolvedor Fullstack com Java e React, mas com um foco principal no Backend.
 
-No momento estou estudando: Framework IONIC, Tokens e Autenticação de Usuarios.
+No momento estou estudando: Framework IONIC, GCP.
 
 Conhecimento Básico em:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER&logoColor=#E34F26)  ![ANGULAR](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=REACT&logoColor=#E34F26)
