@@ -21,14 +21,18 @@ Certificações:
 
 ![Badge](https://curso-spring-ionic-rbs.s3.sa-east-1.amazonaws.com/aws-certified-cloud-practitioner.png)
 
-AWS Cloud practioner - 12/2025
+AWS Cloud practioner - 12/2025 - Recertificado até 12/2029
 
 
 Obrigado pela visita, veja meu LinkedIn:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenscnrangel/)](https://www.linkedin.com/in/rubenscnrangel/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rubenscnrangel/)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula"/>
+#### Estatísticas do GitHub
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+</p>
 
 
 **Live Projects:**
