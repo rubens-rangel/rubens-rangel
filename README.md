@@ -1,6 +1,6 @@
 ### 👋 Olá 👋 🔭
 
-Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Formado em Análise e Desenvolvimento de Sistemas e em Engenharia Civil.
+Meu nome é Rubens Rangel, sou de Vitória (ES), Brasil. Formado em Análise e Desenvolvimento de Sistemas e em Engenharia Civil e Pos Graduado em Arquitetura de Software e Soluções.
 
 Sempre me interessei pela lógica de programação. Hoje trabalho como desenvolvedor Fullstack de ponta a ponta com devops e cloud.
 
@@ -38,15 +38,16 @@ No momento estou estudando: Arquituras de Software e Soluções
 
 AWS Cloud Practitioner — Recertificado 12/2029
 
+
 ---
 
 #### Estatísticas do GitHub
 
 
-**Stats + linguagens (Vercel):**
+**Stats + linguagens (instância alternativa):**
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
+  <img height="165em" src="https://github-readme-stats-sixfalls.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats-sixfalls.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
 </p>
 
 **Sequência de contribuições (Streak):**
@@ -54,7 +55,7 @@ AWS Cloud Practitioner — Recertificado 12/2029
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubens-rangel&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-**Fallback (sempre visível):**
+**Badges (sempre visíveis):**
 <p align="center">
   <img src="https://img.shields.io/github/followers/rubens-rangel?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/rubens-rangel?affiliations=OWNER&style=social" alt="GitHub stars"/>
