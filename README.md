@@ -19,7 +19,7 @@ Conhecimento Avançado em:
 
 Certificações:
 
-![Badge](https://curso-spring-ionic-rbs.s3.sa-east-1.amazonaws.com/aws-certified-cloud-practitioner.png)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 AWS Cloud practioner - 12/2025 - Recertificado até 12/2029
 
