@@ -47,15 +47,8 @@ AWS Cloud Practitioner — Recertificado 12/2029
 **Stats + linguagens (instância alternativa):**
 <p align="center">
   <img height="165em" src="https://github-readme-stats-sixfalls.vercel.app/api?username=rubens-rangel&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats-sixfalls.vercel.app/api/top-langs/?username=rubens-rangel&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
-</p>
 
-**Sequência de contribuições (Streak):**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubens-rangel&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-**Badges (sempre visíveis):**
+**Badges:**
 <p align="center">
   <img src="https://img.shields.io/github/followers/rubens-rangel?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/rubens-rangel?affiliations=OWNER&style=social" alt="GitHub stars"/>
